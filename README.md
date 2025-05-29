@@ -7,6 +7,15 @@ Raspberry Pi 3
       \
        \
         \Capteur Motion PIR ( HW-416-B) - Utilisation de scripts Python3.5.8 pour permettre de detecter la presence d'un humain
+        
+
+=== Montage  ===
+
+Le montage est très simple puisqu’une seule broche doit être activée pendant le mouvement. Les broches du PIR sont étiquetées :
+
+    CCV à la broche 2 (5V)
+    OUT à la broche 16 (GPIO 23)
+    GND une broche 6 (masse)
          
 ![{4EF05A11-C489-4001-978F-FD5FC150E502}](https://github.com/user-attachments/assets/047748a0-e2aa-4e6b-91e9-669cdf458b37)
 
